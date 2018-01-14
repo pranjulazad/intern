@@ -1,0 +1,19 @@
+{
+  "name": "mongoconnectionpool",
+  "version": "0.0.1",
+  "description": "trying to establish connection pooling",
+  "main": "pool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "es6-promise": "^4.2.2",
+    "express": "^4.16.2",
+    "mongo-connect-sync": "^1.2.2",
+    "mongo-sync": "^2.0.1",
+    "mongodb": "~3.0.1",
+    "sleep": "^5.1.1"
+  }
+}
