@@ -13,7 +13,7 @@
     "express": "^4.16.2",
     "mongo-connect-sync": "^1.2.2",
     "mongo-sync": "^2.0.1",
-    "mongodb": "~3.0.1",
+    "mongodb": "~3.6.1",
     "sleep": "^5.1.1"
   }
 }
